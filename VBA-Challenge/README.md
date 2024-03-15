@@ -6,7 +6,15 @@ I have included 3 screenshots to show the final results of all three worksheets 
 
 The script used from VBA is copy and pasted below this. 
 
-I have useda couple sources for troubleshooting some of the (many) problems that came up, including but not limited to course materials for this module, stack exchange, the articles on wallstreetmojo.com, and LLMs to help explain principles in common english and help me understand where to explicitly state a variable's value.
+I have used a couple sources for troubleshooting some of the (many) problems that came up, including but not limited to course materials for this module, stack exchange, the articles on wallstreetmojo.com, and LLMs to help explain principles in common english and help me understand where to explicitly state a variable's value.
+
+
+
+
+
+
+
+
 
 
 
